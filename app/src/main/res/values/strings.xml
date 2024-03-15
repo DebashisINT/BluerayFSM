@@ -12,7 +12,7 @@
 
     <!--Map Key-->
     <!--<string name="MAP_ProjectAPIKey">AIzaSyBRrqsLZFqThqM8uxw_k94pZMbv3-3h0dM</string>-->
-    <string name="MAP_ProjectAPIKey" translatable="false">AIzaSyCbYMZjnt8T6yivYfIa4_R9oy-L3SIYyrQ</string>
+    <string name="MAP_ProjectAPIKey" translatable="false">AIzaSyCCzYz9aGC9uT3clmHSoyL_QvBQZFkLVCI</string>
     <string name="facebook_app_id" translatable="false">260734547001450</string>
     <string name="fb_login_protocol_scheme" translatable="false">fb260734547001450</string>
 
@@ -1584,10 +1584,10 @@
     <string name="historys" translatable="false">Historys</string>
     <!--<string name="firebase_key" translatable="false">key=AAAAIoWfCpc:APA91bEMOPyfjsyziPC1WYJiPHjzdmTQJmAOKP0fM24iXI9BgrmyhH4uLY6Jd-6Lpjp8mvSdpSp-zm20ApTOYQ3Ean4m6LicJ5CoECS_v5u2PUAwA8E6FLsu2ZC6_WxuSYnTTLzlUi4E</string>-->
 
-    <string name="PART_1" translatable="false">key=AAAAIoWfCpc:APA91bEMOPyfjsyziPC1WYJiPHjzdmTQJmAOKP0fM24iXI9BgrmyhH4uLY6Jd-</string>
-    <string name="PART_2" translatable="false">6Lpjp8mvSdpSp-zm20ApTOYQ3Ean4m6LicJ5CoECS_</string>
-    <string name="PART_3" translatable="false">v5u2PUAwA8E6FLsu2ZC6_</string>
-    <string name="PART_4" translatable="false">WxuSYnTTLzlUi4E</string>
+    <string name="PART_1" translatable="false">key=AAAAO1BNyeI:APA91bED9TledyafVL_mghBPOmaRYCQ_</string>
+    <string name="PART_2" translatable="false">oo9Paldd5d5YSRZmEM-MVntKZt1wfQEutK</string>
+    <string name="PART_3" translatable="false">3Ub9OnuTAF4Cs65vllqvAASxsDncVyOXpuGW5De</string>
+    <string name="PART_4" translatable="false">GSaYMJXx3f-SmUr6tq83KGCzG9sf4XvGZUF</string>
 
     <string name="GenderTextNewOrd" translatable="false">Gender</string>
     <string name="ProductTextNewOrd" translatable="false">Product Type</string>
